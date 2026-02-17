@@ -1,0 +1,1 @@
+print('necesitamos aprender mas cosas y que todo sea mas rapido')
